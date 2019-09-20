@@ -59,7 +59,7 @@ def name(firstName):
     userInput = input("Whats is your Last name")
     print(f'Hello {firstName + userInput}')
 
-name(firstName)
+name(firstName)	
 # Problem 7:
 # Create the class Books with name, rating, genre, and author properties/attributes.
 # Create a class method that will change the rating of the book.
